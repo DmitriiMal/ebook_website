@@ -2,6 +2,8 @@
 
 Bootstrap website for downloading a free E-book. This website has a light, business-like design.
 
+Deployed  <a href="https://ebook-website-gamma-eosin.vercel.app/index.html">here</a>.
+
 <img src="./images/screen.png"  />
 
 ## Features
